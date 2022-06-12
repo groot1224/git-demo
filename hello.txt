@@ -18,4 +18,4 @@ hello zhj,hello git
 hello zhj,hello git
 hello zhj,hello git
 hello zhj,hello git
-hello zhj,hello git
+hello zhj,hello git hot-fix test
